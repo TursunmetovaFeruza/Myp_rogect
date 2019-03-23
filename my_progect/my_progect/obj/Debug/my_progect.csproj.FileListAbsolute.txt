@@ -1,0 +1,30 @@
+c:\users\acerb\source\repos\my_progect\my_progect\bin\Debug\my_progect.exe.config
+c:\users\acerb\source\repos\my_progect\my_progect\bin\Debug\my_progect.exe
+c:\users\acerb\source\repos\my_progect\my_progect\bin\Debug\my_progect.pdb
+c:\users\acerb\source\repos\my_progect\my_progect\obj\Debug\my_progect.Form1.resources
+c:\users\acerb\source\repos\my_progect\my_progect\obj\Debug\my_progect.Properties.Resources.resources
+c:\users\acerb\source\repos\my_progect\my_progect\obj\Debug\my_progect.csproj.GenerateResource.Cache
+c:\users\acerb\source\repos\my_progect\my_progect\obj\Debug\my_progect.csproj.CoreCompileInputs.cache
+c:\users\acerb\source\repos\my_progect\my_progect\obj\Debug\my_progect.exe
+c:\users\acerb\source\repos\my_progect\my_progect\obj\Debug\my_progect.pdb
+c:\users\acerb\source\repos\my_progect\my_progect\obj\Debug\my_progect.csprojResolveAssemblyReference.cache
+c:\users\acerb\source\repos\my_progect\my_progect\obj\Debug\my_progect.Form2.resources
+c:\users\acerb\source\repos\my_progect\my_progect\obj\Debug\my_progect.Form3.resources
+c:\users\acerb\source\repos\my_progect\my_progect\obj\Debug\my_progect.Form4.resources
+c:\users\acerb\source\repos\my_progect\my_progect\obj\Debug\my_progect.Form5.resources
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\bin\Debug\my_progect.exe.config
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\bin\Debug\my_progect.exe
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\bin\Debug\my_progect.pdb
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.csprojResolveAssemblyReference.cache
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.Sklad.resources
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.Gm.resources
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.Prava.resources
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.Vhod.resources
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.Reg.resources
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.Properties.Resources.resources
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.Spisok.resources
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.Spravochnik.resources
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.csproj.GenerateResource.Cache
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.csproj.CoreCompileInputs.cache
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.exe
+C:\Users\acerb\Desktop\Фучеба\2 курс\2 семестр\SQL\my_progect\my_progect\obj\Debug\my_progect.pdb
